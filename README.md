@@ -9,7 +9,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/DeavionD/osticket-configure)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/DeavionD/osticket-lifecycle)
 - <b>Active Directory Via Microsoft Azure</b>
-  - [active Directory: Creating A Domain Controler and Client 1](https://github.com/DeavionD/active-directory-setup)
+  - [active Directory: Creating A Domain Controler and Client 1](https://github.com/DeavionD/active-directory-set-up)
   - [active Directory: Configure and add users to your Active Directory](https://github.com/DeavionD/active-directory-configure)
 
 <h2>🤳Connect with me:</h2>
