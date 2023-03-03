@@ -2,7 +2,7 @@
 
 <h2> Information Technology Projects:</h2>
 
-- <b>Creation of a Virtual Machine with Azure</b>
+- <b>Creation of a virtual machine with Azure</b>
 - 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/DeavionD/osticket-prereqs)
