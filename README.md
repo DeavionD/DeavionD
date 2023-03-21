@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/DeavionD/osticket-configure)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/DeavionD/osticket-lifecycle)
 
-<h2> Web Devlopment </h2>
+<h2> Coding Projects </h2>
 
 - <b>Personal Website</b>
   - [Portfolio Website](https://github.com/DeavionD/Personal-Website-Work-in-progress-)
