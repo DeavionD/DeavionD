@@ -6,11 +6,10 @@
   - [osTicket: Prerequisites and Installation](https://github.com/DeavionD/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/DeavionD/osticket-configure)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/DeavionD/osticket-lifecycle)
-  - [Custom PowerShell Script for Wiping USB Drives]
+  - [Custom PowerShell Script for Wiping USB Drives](https://github.com/DeavionD/Wiping-USB-Drives-with-PowerShell)
 
 <h2> Coding Projects </h2>
 
-- <b>Personal Website</b>
   - [Portfolio Website](https://github.com/DeavionD/Personal-Website-Work-in-progress-)
 
 <h2>🤳Connect with me:</h2>
